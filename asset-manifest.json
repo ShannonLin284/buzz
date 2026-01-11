@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/buzz/static/css/main.855f8053.css",
+    "main.css": "/buzz/static/css/main.34f992bf.css",
     "main.js": "/buzz/static/js/main.0654442c.js",
     "static/media/buzz-logo.png": "/buzz/static/media/buzz-logo.03dd3d94daab20d0d8bf.png",
     "index.html": "/buzz/index.html",
-    "main.855f8053.css.map": "/buzz/static/css/main.855f8053.css.map",
+    "main.34f992bf.css.map": "/buzz/static/css/main.34f992bf.css.map",
     "main.0654442c.js.map": "/buzz/static/js/main.0654442c.js.map"
   },
   "entrypoints": [
-    "static/css/main.855f8053.css",
+    "static/css/main.34f992bf.css",
     "static/js/main.0654442c.js"
   ]
 }
