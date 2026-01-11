@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/buzz/static/css/main.f433cc13.css",
+    "main.js": "/buzz/static/js/main.e6336782.js",
+    "static/media/buzz-logo.png": "/buzz/static/media/buzz-logo.03dd3d94daab20d0d8bf.png",
+    "index.html": "/buzz/index.html",
+    "main.f433cc13.css.map": "/buzz/static/css/main.f433cc13.css.map",
+    "main.e6336782.js.map": "/buzz/static/js/main.e6336782.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f433cc13.css",
+    "static/js/main.e6336782.js"
+  ]
+}
