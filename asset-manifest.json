@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/buzz/static/css/main.55b2f292.css",
-    "main.js": "/buzz/static/js/main.f3e990ea.js",
+    "main.js": "/buzz/static/js/main.33a9b5ce.js",
     "static/media/buzz-logo.png": "/buzz/static/media/buzz-logo.03dd3d94daab20d0d8bf.png",
     "static/media/harvard.png": "/buzz/static/media/harvard.3a28f174d3d632e6d4e8.png",
     "static/media/yale.png": "/buzz/static/media/yale.e4f5df3e979a6b82beb5.png",
@@ -13,10 +13,10 @@
     "static/media/princeton.png": "/buzz/static/media/princeton.a96aa27e7ce473692014.png",
     "index.html": "/buzz/index.html",
     "main.55b2f292.css.map": "/buzz/static/css/main.55b2f292.css.map",
-    "main.f3e990ea.js.map": "/buzz/static/js/main.f3e990ea.js.map"
+    "main.33a9b5ce.js.map": "/buzz/static/js/main.33a9b5ce.js.map"
   },
   "entrypoints": [
     "static/css/main.55b2f292.css",
-    "static/js/main.f3e990ea.js"
+    "static/js/main.33a9b5ce.js"
   ]
 }
