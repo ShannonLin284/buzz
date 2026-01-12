@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/buzz/static/css/main.a64de085.css",
-    "main.js": "/buzz/static/js/main.c3c6037c.js",
+    "main.css": "/buzz/static/css/main.7634ef77.css",
+    "main.js": "/buzz/static/js/main.5d606825.js",
     "static/media/about.png": "/buzz/static/media/about.753309055efca645cada.png",
     "static/media/buzz-logo.png": "/buzz/static/media/buzz-logo.03dd3d94daab20d0d8bf.png",
     "static/media/harvard.png": "/buzz/static/media/harvard.3a28f174d3d632e6d4e8.png",
@@ -13,11 +13,11 @@
     "static/media/dartmouth.png": "/buzz/static/media/dartmouth.8f12a7718b5bfdca6dbb.png",
     "static/media/princeton.png": "/buzz/static/media/princeton.a96aa27e7ce473692014.png",
     "index.html": "/buzz/index.html",
-    "main.a64de085.css.map": "/buzz/static/css/main.a64de085.css.map",
-    "main.c3c6037c.js.map": "/buzz/static/js/main.c3c6037c.js.map"
+    "main.7634ef77.css.map": "/buzz/static/css/main.7634ef77.css.map",
+    "main.5d606825.js.map": "/buzz/static/js/main.5d606825.js.map"
   },
   "entrypoints": [
-    "static/css/main.a64de085.css",
-    "static/js/main.c3c6037c.js"
+    "static/css/main.7634ef77.css",
+    "static/js/main.5d606825.js"
   ]
 }
