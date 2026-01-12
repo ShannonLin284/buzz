@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/buzz/static/css/main.9e162087.css",
-    "main.js": "/buzz/static/js/main.a89852d7.js",
+    "main.css": "/buzz/static/css/main.0c7c9178.css",
+    "main.js": "/buzz/static/js/main.af080b6f.js",
     "static/media/contactBackground.png": "/buzz/static/media/contactBackground.c02af4087264211929f9.png",
     "static/media/about.png": "/buzz/static/media/about.753309055efca645cada.png",
     "static/media/buzz-logo.png": "/buzz/static/media/buzz-logo.03dd3d94daab20d0d8bf.png",
@@ -15,11 +15,11 @@
     "static/media/email-icon.png": "/buzz/static/media/email-icon.91071cf970527d532e4a.png",
     "static/media/princeton.png": "/buzz/static/media/princeton.a96aa27e7ce473692014.png",
     "index.html": "/buzz/index.html",
-    "main.9e162087.css.map": "/buzz/static/css/main.9e162087.css.map",
-    "main.a89852d7.js.map": "/buzz/static/js/main.a89852d7.js.map"
+    "main.0c7c9178.css.map": "/buzz/static/css/main.0c7c9178.css.map",
+    "main.af080b6f.js.map": "/buzz/static/js/main.af080b6f.js.map"
   },
   "entrypoints": [
-    "static/css/main.9e162087.css",
-    "static/js/main.a89852d7.js"
+    "static/css/main.0c7c9178.css",
+    "static/js/main.af080b6f.js"
   ]
 }
