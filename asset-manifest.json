@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/buzz/static/css/main.0c7c9178.css",
-    "main.js": "/buzz/static/js/main.af080b6f.js",
+    "main.js": "/buzz/static/js/main.77f1c304.js",
     "static/media/contactBackground.png": "/buzz/static/media/contactBackground.c02af4087264211929f9.png",
-    "static/media/about.png": "/buzz/static/media/about.753309055efca645cada.png",
+    "static/media/aboutBackground.png": "/buzz/static/media/aboutBackground.753309055efca645cada.png",
     "static/media/buzz-logo.png": "/buzz/static/media/buzz-logo.03dd3d94daab20d0d8bf.png",
     "static/media/harvard.png": "/buzz/static/media/harvard.3a28f174d3d632e6d4e8.png",
     "static/media/yale.png": "/buzz/static/media/yale.e4f5df3e979a6b82beb5.png",
@@ -16,10 +16,10 @@
     "static/media/princeton.png": "/buzz/static/media/princeton.a96aa27e7ce473692014.png",
     "index.html": "/buzz/index.html",
     "main.0c7c9178.css.map": "/buzz/static/css/main.0c7c9178.css.map",
-    "main.af080b6f.js.map": "/buzz/static/js/main.af080b6f.js.map"
+    "main.77f1c304.js.map": "/buzz/static/js/main.77f1c304.js.map"
   },
   "entrypoints": [
     "static/css/main.0c7c9178.css",
-    "static/js/main.af080b6f.js"
+    "static/js/main.77f1c304.js"
   ]
 }
