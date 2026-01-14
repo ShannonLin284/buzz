@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/buzz/static/css/main.fc052a93.css",
-    "main.js": "/buzz/static/js/main.b50b21d6.js",
+    "main.css": "/buzz/static/css/main.4f489866.css",
+    "main.js": "/buzz/static/js/main.df454c08.js",
     "static/media/contactBackground.png": "/buzz/static/media/contactBackground.c02af4087264211929f9.png",
     "static/media/campus1.png": "/buzz/static/media/campus1.9c87c8e017be600cfa3b.png",
     "static/media/aboutBackground.png": "/buzz/static/media/aboutBackground.753309055efca645cada.png",
@@ -17,11 +17,11 @@
     "static/media/email-icon.png": "/buzz/static/media/email-icon.91071cf970527d532e4a.png",
     "static/media/princeton.png": "/buzz/static/media/princeton.a96aa27e7ce473692014.png",
     "index.html": "/buzz/index.html",
-    "main.fc052a93.css.map": "/buzz/static/css/main.fc052a93.css.map",
-    "main.b50b21d6.js.map": "/buzz/static/js/main.b50b21d6.js.map"
+    "main.4f489866.css.map": "/buzz/static/css/main.4f489866.css.map",
+    "main.df454c08.js.map": "/buzz/static/js/main.df454c08.js.map"
   },
   "entrypoints": [
-    "static/css/main.fc052a93.css",
-    "static/js/main.b50b21d6.js"
+    "static/css/main.4f489866.css",
+    "static/js/main.df454c08.js"
   ]
 }
