@@ -1,27 +1,26 @@
 {
   "files": {
-    "main.css": "/buzz/static/css/main.4f489866.css",
-    "main.js": "/buzz/static/js/main.df454c08.js",
-    "static/media/contactBackground.png": "/buzz/static/media/contactBackground.c02af4087264211929f9.png",
-    "static/media/campus1.png": "/buzz/static/media/campus1.9c87c8e017be600cfa3b.png",
-    "static/media/aboutBackground.png": "/buzz/static/media/aboutBackground.753309055efca645cada.png",
-    "static/media/campus2.png": "/buzz/static/media/campus2.eebd2b89f405914cb929.png",
-    "static/media/buzz-logo.png": "/buzz/static/media/buzz-logo.03dd3d94daab20d0d8bf.png",
-    "static/media/harvard.png": "/buzz/static/media/harvard.3a28f174d3d632e6d4e8.png",
-    "static/media/yale.png": "/buzz/static/media/yale.e4f5df3e979a6b82beb5.png",
-    "static/media/cornell.png": "/buzz/static/media/cornell.f3f441c236ecbc5e9af1.png",
-    "static/media/brown.png": "/buzz/static/media/brown.dbdb9ec023157248523d.png",
-    "static/media/columbia.png": "/buzz/static/media/columbia.a12b0d9c4b7ff3a153a5.png",
-    "static/media/upenn.png": "/buzz/static/media/upenn.8da24b0d90c5dad7f264.png",
-    "static/media/dartmouth.png": "/buzz/static/media/dartmouth.8f12a7718b5bfdca6dbb.png",
-    "static/media/email-icon.png": "/buzz/static/media/email-icon.91071cf970527d532e4a.png",
-    "static/media/princeton.png": "/buzz/static/media/princeton.a96aa27e7ce473692014.png",
-    "index.html": "/buzz/index.html",
-    "main.4f489866.css.map": "/buzz/static/css/main.4f489866.css.map",
-    "main.df454c08.js.map": "/buzz/static/js/main.df454c08.js.map"
+    "main.css": "/static/css/main.4f489866.css",
+    "main.js": "/static/js/main.d334bc4f.js",
+    "static/media/contactBackground.png": "/static/media/contactBackground.c02af4087264211929f9.png",
+    "static/media/campus1.png": "/static/media/campus1.9c87c8e017be600cfa3b.png",
+    "static/media/aboutBackground.png": "/static/media/aboutBackground.753309055efca645cada.png",
+    "static/media/buzz-logo.png": "/static/media/buzz-logo.03dd3d94daab20d0d8bf.png",
+    "static/media/harvard.png": "/static/media/harvard.3a28f174d3d632e6d4e8.png",
+    "static/media/yale.png": "/static/media/yale.e4f5df3e979a6b82beb5.png",
+    "static/media/cornell.png": "/static/media/cornell.f3f441c236ecbc5e9af1.png",
+    "static/media/brown.png": "/static/media/brown.dbdb9ec023157248523d.png",
+    "static/media/columbia.png": "/static/media/columbia.a12b0d9c4b7ff3a153a5.png",
+    "static/media/upenn.png": "/static/media/upenn.8da24b0d90c5dad7f264.png",
+    "static/media/dartmouth.png": "/static/media/dartmouth.8f12a7718b5bfdca6dbb.png",
+    "static/media/email-icon.png": "/static/media/email-icon.91071cf970527d532e4a.png",
+    "static/media/princeton.png": "/static/media/princeton.a96aa27e7ce473692014.png",
+    "index.html": "/index.html",
+    "main.4f489866.css.map": "/static/css/main.4f489866.css.map",
+    "main.d334bc4f.js.map": "/static/js/main.d334bc4f.js.map"
   },
   "entrypoints": [
     "static/css/main.4f489866.css",
-    "static/js/main.df454c08.js"
+    "static/js/main.d334bc4f.js"
   ]
 }
