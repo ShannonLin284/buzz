@@ -1,26 +1,30 @@
 {
   "files": {
     "main.css": "/static/css/main.e54390af.css",
-    "main.js": "/static/js/main.4eaf3fcb.js",
+    "main.js": "/static/js/main.9b55f402.js",
     "static/media/trackandfield.png": "/static/media/trackandfield.0eac25923476fea83b0a.png",
     "static/media/yerbamate.png": "/static/media/yerbamate.c02af4087264211929f9.png",
     "static/media/sorority.png": "/static/media/sorority.9c87c8e017be600cfa3b.png",
     "static/media/boxesImage.png": "/static/media/boxesImage.753309055efca645cada.png",
+    "static/media/vanderbilt.png": "/static/media/vanderbilt.d39d7dd8ee0eec9f67e5.png",
+    "static/media/michigan.png": "/static/media/michigan.667bd07e54ae9c46614b.png",
+    "static/media/cornell.png": "/static/media/cornell.ab33adf8a0ac7f6196fb.png",
+    "static/media/uchicago.png": "/static/media/uchicago.cac93b09ef5937cf24b6.png",
     "static/media/buzz-logo.svg": "/static/media/buzz-logo.08fd5cf55d69132444184ab61ecd14de.svg",
     "static/media/harvard.png": "/static/media/harvard.3a28f174d3d632e6d4e8.png",
     "static/media/yale.png": "/static/media/yale.e4f5df3e979a6b82beb5.png",
-    "static/media/cornell.png": "/static/media/cornell.f3f441c236ecbc5e9af1.png",
     "static/media/brown.png": "/static/media/brown.dbdb9ec023157248523d.png",
     "static/media/columbia.png": "/static/media/columbia.a12b0d9c4b7ff3a153a5.png",
     "static/media/upenn.png": "/static/media/upenn.8da24b0d90c5dad7f264.png",
     "static/media/dartmouth.png": "/static/media/dartmouth.8f12a7718b5bfdca6dbb.png",
+    "static/media/mit.png": "/static/media/mit.bc2acb96f4b4594b9449.png",
     "static/media/princeton.png": "/static/media/princeton.a96aa27e7ce473692014.png",
     "index.html": "/index.html",
     "main.e54390af.css.map": "/static/css/main.e54390af.css.map",
-    "main.4eaf3fcb.js.map": "/static/js/main.4eaf3fcb.js.map"
+    "main.9b55f402.js.map": "/static/js/main.9b55f402.js.map"
   },
   "entrypoints": [
     "static/css/main.e54390af.css",
-    "static/js/main.4eaf3fcb.js"
+    "static/js/main.9b55f402.js"
   ]
 }
