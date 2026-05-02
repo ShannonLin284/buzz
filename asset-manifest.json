@@ -1,11 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.454a8152.css",
-    "main.js": "/static/js/main.b9611f12.js",
+    "main.js": "/static/js/main.539a4ba0.js",
     "static/media/trackandfield.png": "/static/media/trackandfield.0eac25923476fea83b0a.png",
     "static/media/yerbamate.png": "/static/media/yerbamate.c02af4087264211929f9.png",
+    "static/media/pinkguava.png": "/static/media/pinkguava.dad82618c03737bbc644.png",
     "static/media/sorority.png": "/static/media/sorority.9c87c8e017be600cfa3b.png",
     "static/media/boxesImage.png": "/static/media/boxesImage.753309055efca645cada.png",
+    "static/media/poppi.png": "/static/media/poppi.0d06b32a6e751457a4dd.png",
+    "static/media/rarebeauty.png": "/static/media/rarebeauty.24533a22ef816776b321.png",
+    "static/media/prime.png": "/static/media/prime.9da88b0cd5b0c5384d54.png",
     "static/media/vanderbilt.png": "/static/media/vanderbilt.d39d7dd8ee0eec9f67e5.png",
     "static/media/michigan.png": "/static/media/michigan.667bd07e54ae9c46614b.png",
     "static/media/cornell.png": "/static/media/cornell.ab33adf8a0ac7f6196fb.png",
@@ -21,10 +25,10 @@
     "static/media/princeton.png": "/static/media/princeton.a96aa27e7ce473692014.png",
     "index.html": "/index.html",
     "main.454a8152.css.map": "/static/css/main.454a8152.css.map",
-    "main.b9611f12.js.map": "/static/js/main.b9611f12.js.map"
+    "main.539a4ba0.js.map": "/static/js/main.539a4ba0.js.map"
   },
   "entrypoints": [
     "static/css/main.454a8152.css",
-    "static/js/main.b9611f12.js"
+    "static/js/main.539a4ba0.js"
   ]
 }
