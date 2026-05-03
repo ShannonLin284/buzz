@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.2275b865.css",
-    "main.js": "/static/js/main.71455c99.js",
+    "main.css": "/static/css/main.610483a4.css",
+    "main.js": "/static/js/main.5753378b.js",
     "static/media/trackandfield.png": "/static/media/trackandfield.0eac25923476fea83b0a.png",
-    "static/media/yerbamate.png": "/static/media/yerbamate.c02af4087264211929f9.png",
     "static/media/pinkguava.png": "/static/media/pinkguava.dad82618c03737bbc644.png",
     "static/media/sorority.png": "/static/media/sorority.9c87c8e017be600cfa3b.png",
     "static/media/boxesImage.png": "/static/media/boxesImage.753309055efca645cada.png",
+    "static/media/zta-lacroix.png": "/static/media/zta-lacroix.914a6c12e8f5340945bd.png",
     "static/media/poppi.png": "/static/media/poppi.0d06b32a6e751457a4dd.png",
     "static/media/rarebeauty.png": "/static/media/rarebeauty.24533a22ef816776b321.png",
     "static/media/prime.png": "/static/media/prime.9da88b0cd5b0c5384d54.png",
@@ -20,15 +20,16 @@
     "static/media/brown.png": "/static/media/brown.dbdb9ec023157248523d.png",
     "static/media/columbia.png": "/static/media/columbia.a12b0d9c4b7ff3a153a5.png",
     "static/media/upenn.png": "/static/media/upenn.8da24b0d90c5dad7f264.png",
+    "static/media/claude-logo.webp": "/static/media/claude-logo.1fd3a258fd3c22c98b3c.webp",
     "static/media/dartmouth.png": "/static/media/dartmouth.8f12a7718b5bfdca6dbb.png",
     "static/media/mit.png": "/static/media/mit.bc2acb96f4b4594b9449.png",
     "static/media/princeton.png": "/static/media/princeton.a96aa27e7ce473692014.png",
     "index.html": "/index.html",
-    "main.2275b865.css.map": "/static/css/main.2275b865.css.map",
-    "main.71455c99.js.map": "/static/js/main.71455c99.js.map"
+    "main.610483a4.css.map": "/static/css/main.610483a4.css.map",
+    "main.5753378b.js.map": "/static/js/main.5753378b.js.map"
   },
   "entrypoints": [
-    "static/css/main.2275b865.css",
-    "static/js/main.71455c99.js"
+    "static/css/main.610483a4.css",
+    "static/js/main.5753378b.js"
   ]
 }
